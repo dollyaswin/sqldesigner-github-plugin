@@ -70,7 +70,7 @@
 <part>id</part>
 </key>
 </table>
-<table x="385" y="10" name="Testing 5">
+<table x="385" y="10" name="testing5">
 <row name="id" null="1" autoincrement="1">
 <datatype>TINYINT</datatype>
 <default>NULL</default></row>
